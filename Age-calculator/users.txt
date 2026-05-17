@@ -1,0 +1,9 @@
+ Name | Born | Age | Decade | Status 
+khaled | 1993 | 33 | 30s | adult 
+ walid | 2011 | 15 | 10s | young 
+ jana | 2020 | 6 | 0s | young 
+ gemini | 2019 | 7 | 0s | young 
+ ahmad | 1999 | 27 | 20s | adult 
+ bilal | 2000 | 26 | 20s | adult 
+ peter | 1994 | 32 | 30s | adult 
+ 
