@@ -1,8 +1,10 @@
  Name | Born | Age | Decade | Status 
-khaled | 1993 | 33 | 30s | adult 
- walid | 2020 | 6 | 0s | young 
- ali | 2022 | 4 | 0s | young 
- jad | 2010 | 16 | 10s | young 
- ahmad | 2005 | 21 | 20s | adult 
- hadi | 1998 | 28 | 20s | adult 
- 
+ yasser | 1995 | 31 | 30s | adult 
+Gemini | 2019 | 7 | 0s | young
+roudy | 1994 | 32 | 30s | adult
+sandy | 2012 | 14 | 10s | young
+mohamad | 1989 | 37 | 30s | adult
+hamid | 1999 | 27 | 20s | adult
+hamad | 1998 | 28 | 20s | adult
+jad | 1997 | 29 | 20s | adult
+marcilino | 1991 | 35 | 30s | adult
